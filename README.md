@@ -1,4 +1,4 @@
-# Running-on-Android
+# Running Deepseek-r1 on Android via Termux
 
 Here is a short guide to run deepseek r1 model on android. The model used is the DeepSeek-R1-Distill-Qwen-1.5B.
 <img src="img (2).jpg" alt="chat" width="500"/>
